@@ -3,8 +3,10 @@
 
 The secret word is chosen from a separate file, words.txt
 (one 5-letter word per line, in the same folder as this program)
-Any five letters are accepted as a guess, whether or not they appear in that list.
+Any five letters are accepted as a guess, whether or not they appear in that list.'
+jhkjhk
 """
+
 
 import os
 import random
