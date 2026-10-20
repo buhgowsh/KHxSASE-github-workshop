@@ -3,3 +3,6 @@ began
 claim
 debut
 fjord
+adieu
+wreck
+queue
