@@ -1,4 +1,7 @@
 ## KHxSASE Github Workshop Activity!!
+Changes for Workshop
+
+
 Hello, and thank you for checking out the repository for the activity!
 
 The goal of this activity is to let everyone apply what they've learned during the workshop and submit their own pull requests
@@ -6,6 +9,8 @@ The goal of this activity is to let everyone apply what they've learned during t
 Working in groups is ideal to get familiar with working with people, but it's okay to do this solo as well
 
 Lets get started now! 
+
+Yo, this is Caden's pr.
 
 ## Activity Outline
 Coding is NOT a requirement for this activity, so no worries if you don't know how to
